@@ -1,0 +1,18 @@
+version: "3.8"
+
+services:
+  agent-api:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile
+    container_name: slm_agent_api
+    ports:
+      - "8000:8000"
+    environment:
+      - OLLAMA_BASE_URL=http://host.docker.internal:11434
+    extra_hosts:
+      - "host.docker.internal:host-gateway"
+    volumes:
+      - ../benchmarks/data:/app/benchmarks/data:ro
+      - ../evaluation/traces:/app/evaluation/traces
+    restart: unless-stopped

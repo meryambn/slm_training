@@ -1,0 +1,19 @@
+{
+  "service": "order-gateway",
+  "environment": "production",
+  "version": "2.4.1",
+  "database": {
+    "dialect": "postgresql",
+    "connection": {
+      "host": "db-cluster-primary.internal",
+      "port": 5432,
+      "max_pool_size": 64,
+      "min_pool_size": 8,
+      "timeout_seconds": 30
+    }
+  },
+  "cache": {
+    "provider": "redis",
+    "ttl_minutes": 15
+  }
+}

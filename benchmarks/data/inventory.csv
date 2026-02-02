@@ -1,0 +1,7 @@
+sku,item_name,category,stock_quantity,reorder_level
+SKU-001,Carbon Steel Washer,Fasteners,1250,200
+SKU-002,Brass Bushing 10mm,Bearings,85,30
+SKU-003,Titanium Hex Bolt,Fasteners,4,25
+SKU-004,Ceramic Insulator,Electrical,320,50
+SKU-005,Neoprene O-Ring,Seals,450,100
+SKU-006,Aluminum Extrusion 1m,Structural,18,10

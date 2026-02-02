@@ -1,0 +1,12 @@
+id,name,department,salary
+E101,Alice Smith,Engineering,110000
+E102,Bob Jones,Engineering,115000
+E103,Charlie Brown,Engineering,118400
+E104,Diana Prince,Engineering,120600
+E105,Evan Wright,Engineering,128000
+M201,Fiona Gallagher,Marketing,71342
+M202,George Clark,Marketing,81000
+M203,Hannah Abbott,Marketing,91000
+M204,Ian Malcolm,Marketing,104658
+S301,Julia Roberts,Sales,95000
+S302,Kevin Bacon,Sales,102000

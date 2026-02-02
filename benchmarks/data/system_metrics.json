@@ -1,0 +1,37 @@
+{
+  "cluster_id": "us-east-compute-04",
+  "nodes": [
+    {
+      "node_id": "node-1",
+      "cpu_cores": 32,
+      "memory_gb": 128,
+      "peak_cpu_percent": 74.2,
+      "status": "active"
+    },
+    {
+      "node_id": "node-2",
+      "cpu_cores": 64,
+      "memory_gb": 256,
+      "peak_cpu_percent": 91.8,
+      "status": "active"
+    },
+    {
+      "node_id": "node-3",
+      "cpu_cores": 32,
+      "memory_gb": 128,
+      "peak_cpu_percent": 45.0,
+      "status": "idle"
+    },
+    {
+      "node_id": "node-4",
+      "cpu_cores": 64,
+      "memory_gb": 256,
+      "peak_cpu_percent": 88.5,
+      "status": "active"
+    }
+  ],
+  "gateway": {
+    "rate_limit_rps": 15000,
+    "ssl_enabled": true
+  }
+}

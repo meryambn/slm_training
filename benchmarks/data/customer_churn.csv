@@ -1,0 +1,13 @@
+customer_id,contract_type,tenure_months,monthly_charges,churn
+CUST-001,Month-to-month,2,85.50,Yes
+CUST-002,Two year,45,64.20,No
+CUST-003,One year,18,92.10,Yes
+CUST-004,Month-to-month,6,45.00,No
+CUST-005,Month-to-month,1,78.00,Yes
+CUST-006,Two year,60,110.00,No
+CUST-007,Month-to-month,3,89.90,Yes
+CUST-008,One year,24,55.40,No
+CUST-009,Month-to-month,12,72.00,Yes
+CUST-010,Two year,36,68.50,No
+CUST-011,One year,14,49.00,No
+CUST-012,Month-to-month,8,95.00,No

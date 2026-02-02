@@ -1,0 +1,7 @@
+[
+  {"product_id": "PROD_101", "name": "Standard Widget", "units_sold": 450, "unit_price": 24.50},
+  {"product_id": "PROD_205", "name": "Super Sprocket", "units_sold": 220, "unit_price": 89.00},
+  {"product_id": "PROD_318", "name": "Precision Bearing", "units_sold": 800, "unit_price": 14.25},
+  {"product_id": "PROD_904", "name": "Enterprise Optical Sensor", "units_sold": 75, "unit_price": 1450.00},
+  {"product_id": "PROD_552", "name": "Heavy Duty Coupler", "units_sold": 130, "unit_price": 310.00}
+]
